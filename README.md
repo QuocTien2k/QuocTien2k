@@ -1,5 +1,5 @@
 # 💫About Me :
-👋 Giới thiệu
+👋
 Xin chào! Mình là Đỗ Quốc Tiến, sinh năm 2000, hiện là sinh viên ngành Công nghệ Thông tin tại Đại học Văn Hiến, TP. Hồ Chí Minh.
 Mình có niềm đam mê mạnh mẽ với lập trình web, đặc biệt là phát triển các ứng dụng full-stack sử dụng MERN Stack (MongoDB, Express, React, Node.js).
 
